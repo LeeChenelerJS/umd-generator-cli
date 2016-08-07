@@ -1,5 +1,5 @@
 # umd-generator-cli
-Generates boiler plate for a javascript Universal Module Definition. Defines your module in CommonJS, AMD and the browser depending on the environment it detects.
+This is the command line interface for umd-generator, available here: https://github.com/LeeCheneler/umd-generator.
 
 ### How To
 Install umd-generator-cli globally to enable it in command line:
