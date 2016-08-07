@@ -9,12 +9,12 @@ npm install -g umd-generator-cli
 
 Then use like so:
 ```
-umd-generator-cli --directory ./newDir --name myModule
+umd --directory ./newDir --name myModule
 ```
 
 Or you can use it without specifying its variables in advance:
 ```
-umd-generator-cli
+umd
 Directory: ./newdir
 ./newDir
 Name: myModule
