@@ -1,4 +1,6 @@
 # umd-generator-cli
+[![npm version](https://badge.fury.io/js/umd-generator-cli.svg)](https://badge.fury.io/js/umd-generator-cli)
+
 This is the command line interface for umd-generator, available here: https://github.com/LeeCheneler/umd-generator.
 
 ### How To
